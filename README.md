@@ -4,10 +4,15 @@ This is a Google Colab notebook with QBittorrent and Rclone, which can download 
 
 
 <br><b>Usage:</b>
-<br> First istall lib torrent using relevant button  ( You all have to do is press run buttons)
-<br> second mount google drive
-<br> third add torrent file or add magnet after run relevant code by using run button ( only use one magnet or torrent file )
-<br> finaly start download it mirror file to google drive
+<br> First download jupiter note book from this repi
+<br> second open google colab ( it is free ) and upload jupyter note book to it
+<br> third run first program of jupyter book and it download necessary python packes
+<br> 5th run 2nd program in jupyter book , it ask from you to give access for your google drive give it
+<br>special note - make sure your google drive have enough space to store relevant torrent file 
+<br> 6th run program for upload torrent file or torrent magnet ( run only one )
+<br> 7th upload torrent file or copy magnet to prgram 
+<br> finaly run program for mirror torrent file to google drive ( it will take some time depending on torrent file size and seeds )
+<br>after that you can download relevant torrent file from your google drive
 
 
 
